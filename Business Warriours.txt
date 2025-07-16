@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Business Warriours</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #111827;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    footer {
+      background-color: #1f2937;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .card {
+      background-color: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Business Warriours</h1>
+    <p>Empowering Businesses to Grow</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Me</a>
+    <a href="#services">Services</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <div class="card">
+      <h2>Welcome to Business Warriours</h2>
+      <p>We help startups, entrepreneurs, and established businesses boost their visibility through smart digital and branding solutions.</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="card">
+      <h2>About Me</h2>
+      <p>Hi, I’m Jayesh Patil. With over 1.9 years of experience as a Business Development Executive, I specialize in B2B/B2C sales, lead generation, email marketing, and helping brands get noticed in a competitive world.</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="card">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Magazine Features & PR Branding</li>
+        <li>Digital Advertising & Visibility Campaigns</li>
+        <li>Lead Generation and CRM Strategy</li>
+        <li>Email Marketing & Cold Outreach</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="testimonials">
+    <div class="card">
+      <h2>Testimonials</h2>
+      <p>"Jayesh helped us increase inbound leads by 40% within two months. Very professional and reliable." – Client A</p>
+      <p>"Their branding services gave our business the visibility it needed. Highly recommend Business Warriours!" – Client B</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="card">
+      <h2>Contact</h2>
+      <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+      <p><strong>Email:</strong> youremail@example.com</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Business Warriours. All rights reserved.</p>
+  </footer>
+</body>
+</html>
